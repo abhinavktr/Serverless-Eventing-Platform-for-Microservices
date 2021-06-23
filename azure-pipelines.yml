@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'faf758b3-430c-4f09-8d94-c3f6885d33ae'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'contentcreatoraudio'
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
